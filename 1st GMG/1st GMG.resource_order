@@ -1,0 +1,28 @@
+{
+  "FolderOrderSettings":[
+    {"name":"Animation Curves","order":10,"path":"folders/Animation Curves.yy",},
+    {"name":"Extensions","order":12,"path":"folders/Extensions.yy",},
+    {"name":"Fonts","order":6,"path":"folders/Fonts.yy",},
+    {"name":"Notes","order":11,"path":"folders/Notes.yy",},
+    {"name":"Objects","order":8,"path":"folders/Objects.yy",},
+    {"name":"Particle Systems","order":13,"path":"folders/Particle Systems.yy",},
+    {"name":"Paths","order":3,"path":"folders/Paths.yy",},
+    {"name":"Scripts","order":4,"path":"folders/Scripts.yy",},
+    {"name":"Sequences","order":9,"path":"folders/Sequences.yy",},
+    {"name":"Shaders","order":5,"path":"folders/Shaders.yy",},
+    {"name":"Sounds","order":2,"path":"folders/Sounds.yy",},
+    {"name":"Tile Sets","order":1,"path":"folders/Tile Sets.yy",},
+    {"name":"Timelines","order":7,"path":"folders/Timelines.yy",},
+  ],
+  "ResourceOrderSettings":[
+    {"name":"fnt_big","order":1,"path":"fonts/fnt_big/fnt_big.yy",},
+    {"name":"fnt_small","order":2,"path":"fonts/fnt_small/fnt_small.yy",},
+    {"name":"Bada_Patthar","order":2,"path":"objects/Bada_Patthar/Bada_Patthar.yy",},
+    {"name":"Chota_Patthar","order":3,"path":"objects/Chota_Patthar/Chota_Patthar.yy",},
+    {"name":"Game","order":4,"path":"objects/Game/Game.yy",},
+    {"name":"Goli","order":1,"path":"objects/Goli/Goli.yy",},
+    {"name":"Explosion","order":1,"path":"sounds/Explosion/Explosion.yy",},
+    {"name":"Laser","order":3,"path":"sounds/Laser/Laser.yy",},
+    {"name":"snd_rock_collision","order":2,"path":"sounds/snd_rock_collision/snd_rock_collision.yy",},
+  ],
+}
